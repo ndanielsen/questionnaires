@@ -1,18 +1,18 @@
 [{
-  "title": [{
+  "title": {
     "es": "pregunta número 1 blah blah",
     "en": "question number 1 blah blah",
-  }],
+  },
   "exam": "hexaco-100",
   "reversed": false,
   "number": 1,
   "category": "honesty-humility",
   "subcategory": "sincerity"
 }, {
-  "title": [{
+  "title": {
     "es": "pregunta número 2 blah blah",
     "en": "question number 2 blah blah",
-  }],
+  },
   "exam": "hexaco-100",
   "reversed": true,
   "number": 2,
