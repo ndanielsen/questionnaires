@@ -1,0 +1,14 @@
+{
+  "name": "hexaco-pi-r-100",
+  "title": [{
+    "es": "Hexaco 100 preguntas",
+    "en": "Hexaco 100 questions"
+  }],
+  "description": [{
+    "es": "Hexaco 100 preguntas",
+    "en": "Hexaco 100 questions"
+  }],
+  "min": 1,
+  "max": 5,
+  "languages": ["es", "en"]
+}

@@ -1,0 +1,74 @@
+[{
+  "title": [{
+    "es": "Me aburriría bastante visitar una galería de arte.",
+    "en": "I would be quite bored by a visit to an art gallery",
+  }],
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 1,
+  "domain": "openness-to-experience",
+  "facet": "aesthetic-appreciation "
+}, {
+  "title": [{
+    "es": "Limpio mi oficina o mi casa con bastante frecuencia.",
+    "en": "I clean my office or home quite frequently.",
+  }],
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 2,
+  "domain": "conscientiousness",
+  "facet": "organization"
+}, {
+  }, {
+  "title": [{
+    "es": "Casi nunca soy rencoroso/a, incluso con personas que me han hecho mucho daño.",
+    "en": "I rarely hold a grudge, even against people who have badly wronged me.",
+  }],
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 3,
+  "domain": "agreeableness",
+  "facet": "forgiveness"
+}, {
+  "title": [{
+    "es": "En general, me siento bastante satisfecho/a conmigo mismo/a.",
+    "en": "I feel reasonably satisfied with myself overall.",
+  }],
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 4,
+  "domain": "extraversion",
+  "facet": "social-self-esteem"
+}, {
+  "title": [{
+    "es": "I would feel afraid if I had to travel in bad weather conditions.",
+    "en": "Sentiría miedo si tuviera que viajar en malas condiciones climatológicas.",
+  }],
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 5,
+  "domain": "emotionality",
+  "facet": "fearfulness"
+}, {
+  "title": [{
+    "es": "Si quiero algo de una persona que no me gusta, me comportaré con ella de un modo muy amable para conseguirlo.",
+    "en": "If I want something from a person I dislike, I will act very nicely toward that person in order to get it.",
+  }],
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 6,
+  "domain": "honesty-humility",
+  "facet": "sincerity"
+}, {
+  "title": [{
+    "es": "Me interesa conocer la historia y la política de otros países.",
+    "en": "I'm interested in learning about the history and politics of other countries.",
+  }],
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 7,
+  "domain": "openness-to-experience ",
+  "facet": "inquisitiveness"
+}, {
+  ...
+}]

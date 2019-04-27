@@ -1,0 +1,76 @@
+[{
+  "questionnaire": "hexaco-pi-r-100",
+  "domain": "honesty-humility"
+  "title": [{
+    "en": "Honesty / Humility",
+    "es": "Honestidad / Humildad"
+  }],
+  "facets": [{
+    "facet": "sincerity",
+    "title": [{
+      "en": "Sincerity",
+      "es": "Sinceridad"
+    }],
+    "average": 3.20
+  }, {
+    "facet": "fairness",
+    "title": [{
+      "en": "Fairness",
+      "es": "Justicia"
+    }],
+    "average": 3.34
+  }, {
+    "facet": "greed-avoidance",
+    "title": [{
+      "en": "Greed-Avoidance",
+      "es": "Falta de codicia"
+    }],
+    "average": 2.72
+  }, {
+    "facet": "modesty",
+    "title": [{
+      "en": "Modesty",
+      "es": "Modestia"
+    }],
+    "average": 3.49
+  }],
+  "average": 3.19
+}, {
+  "domain": "emotionality"
+  "title": [{
+    "en": "Emotionality",
+    "es": "Emocionalidad"
+  }],
+  "facets": [{
+    "facet": "fearfulness",
+    "title": [{
+      "en": "Fearfulness",
+      "es": "Temor"
+    }],
+    "average": 3.06
+  }, {
+    "facet": "anxiety",
+    "title": [{
+      "en": "Anxiety",
+      "es": "Ansiedad"
+    }],
+    "average": 3.69
+  }, {
+    "facet": "dependence",
+    "title": [{
+      "en": "Dependence",
+      "es": "Dependencia"
+    }],
+    "average": 3.38
+  }, {
+    "facet": "sentimentality",
+    "title": [{
+      "en": "Sentimentality",
+      "es": "Sentimentalismo"
+    }],
+    "average": 3.58
+  }],
+  "average": 3.43
+}, {
+  ...
+}]
