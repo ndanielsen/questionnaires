@@ -1,7 +1,7 @@
 [{
   "title": {
     "es": "Me aburriría bastante visitar una galería de arte.",
-    "en": "I would be quite bored by a visit to an art gallery",
+    "en": "I would be quite bored by a visit to an art gallery."
   },
   "questionnaire": "hexaco-pi-r-100",
   "reversed": true,
@@ -11,7 +11,7 @@
 }, {
   "title": {
     "es": "Limpio mi oficina o mi casa con bastante frecuencia.",
-    "en": "I clean my office or home quite frequently.",
+    "en": "I clean my office or home quite frequently."
   },
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
@@ -21,7 +21,7 @@
 }, {
   "title": {
     "es": "Casi nunca soy rencoroso/a, incluso con personas que me han hecho mucho daño.",
-    "en": "I rarely hold a grudge, even against people who have badly wronged me.",
+    "en": "I rarely hold a grudge, even against people who have badly wronged me."
   },
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
@@ -31,7 +31,7 @@
 }, {
   "title": {
     "es": "En general, me siento bastante satisfecho/a conmigo mismo/a.",
-    "en": "I feel reasonably satisfied with myself overall.",
+    "en": "I feel reasonably satisfied with myself overall."
   },
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
@@ -41,7 +41,7 @@
 }, {
   "title": {
     "es": "I would feel afraid if I had to travel in bad weather conditions.",
-    "en": "Sentiría miedo si tuviera que viajar en malas condiciones climatológicas.",
+    "en": "Sentiría miedo si tuviera que viajar en malas condiciones climatológicas."
   },
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
@@ -51,7 +51,7 @@
 }, {
   "title": {
     "es": "Si quiero algo de una persona que no me gusta, me comportaré con ella de un modo muy amable para conseguirlo.",
-    "en": "If I want something from a person I dislike, I will act very nicely toward that person in order to get it.",
+    "en": "If I want something from a person I dislike, I will act very nicely toward that person in order to get it."
   },
   "questionnaire": "hexaco-pi-r-100",
   "reversed": true,
@@ -61,7 +61,7 @@
 }, {
   "title": {
     "es": "Me interesa conocer la historia y la política de otros países.",
-    "en": "I'm interested in learning about the history and politics of other countries.",
+    "en": "I'm interested in learning about the history and politics of other countries."
   },
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
@@ -69,5 +69,163 @@
   "domain": "openness-to-experience",
   "facet": "inquisitiveness"
 }, {
-  ...
+  "title": {
+    "es": "Cuando trabajo suelo ponerme metas ambiciosas.",
+    "en": "When working, I often set ambitious goals for myself."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 8,
+  "domain": "conscientiousness",
+  "facet": "diligence"
+}, {
+  "title": {
+    "es": "La gente me dice a veces que soy muy crítico con los demás.",
+    "en": "People sometimes tell me that I am too critical of others."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 9,
+  "domain": "agreeableness",
+  "facet": "gentleness"
+}, {
+  "title": {
+    "es": "Casi nunca expreso mis opiniones en reuniones sociales.",
+    "en": "I rarely express my opinions in group meetings."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 10,
+  "domain": "extraversion",
+  "facet": "social-boldness"
+}, {
+  "title": {
+    "es": "A veces no puedo evitar preocuparme por cosas insignificantes.",
+    "en": "I sometimes can't help worrying about little things."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 11,
+  "domain": "emotionality",
+  "facet": "anxiety"
+}, {
+  "title": {
+    "es": "Si supiera que nunca sería descubierto, estaría dispuesto a robar un millón de euros.",
+    "en": "If I knew that I could never get caught, I would be willing to steal a million dollars."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 12,
+  "domain": "honesty-humility",
+  "facet": "fairness"
+}, {
+  "title": {
+    "es": "Me gustaría un trabajo rutinario en lugar de un trabajo que requiera ser creativo.",
+    "en": "I would like a job that requires following a routine rather than being creative."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 13,
+  "domain": "openness-to-experience",
+  "facet": "creativity"
+}, {
+  "title": {
+    "es": "A menudo compruebo mi trabajo varias veces para detectar cualquier error.",
+    "en": "I often check my work over repeatedly to find any mistakes."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 14,
+  "domain": "conscientiousness",
+  "facet": "perfectionism"
+}, {
+  "title": {
+    "es": "A veces la gente me dice que soy muy testarudo/a.",
+    "en": "People sometimes tell me that I'm too stubborn."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 15,
+  "domain": "agreeableness",
+  "facet": "flexibility"
+}, {
+  "title": {
+    "es": "Evito entablar la típica conversación trivial con la gente.",
+    "en": "I avoid making 'small talk' with people."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 16,
+  "domain": "extraversion",
+  "facet": "sociability"
+}, {
+  "title": {
+    "es": "Cuando me ocurre algo doloroso, necesito alguien que me reconforte.",
+    "en": "When I suffer from a painful experience, I need someone to make me feel comfortable."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 17,
+  "domain": "emotionality",
+  "facet": "dependence"
+}, {
+  "title": {
+    "es": "Tener mucho dinero no es especialmente importante para mí.",
+    "en": "Having a lot of money is not especially important to me."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 18,
+  "domain": "honesty-humility ",
+  "facet": "greed-avoidance"
+}, {
+  "title": {
+    "es": "Considero que prestar atención a ideas extremas es una pérdida de tiempo.",
+    "en": "I think that paying attention to radical ideas is a waste of time."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 19,
+  "domain": "openness-to-experience",
+  "facet": "unconventionality"
+}, {
+  "title": {
+    "es": "Tomo decisiones basándome en las sensaciones del momento, más que en una reflexión cuidadosa.",
+    "en": "I make decisions based on the feeling of the moment rather than on careful thought."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 20,
+  "domain": "conscientiousness",
+  "facet": "prudence"
+}, {
+  "title": {
+    "es": "La gente piensa que tengo mal genio.",
+    "en": "People think of me as someone who has a quick temper."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 21,
+  "domain": "agreeableness",
+  "facet": "patience"
+}, {
+  "title": {
+    "es": "Soy muy activo/a casi todo el tiempo.",
+    "en": "I am energetic nearly all the time."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 22,
+  "domain": "extraversion",
+  "facet": "liveliness"
+}, {
+  "title": {
+    "es": ".",
+    "en": "."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": ,
+  "number": ,
+  "domain": "",
+  "facet": ""
 }]
