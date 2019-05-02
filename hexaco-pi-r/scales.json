@@ -1,6 +1,6 @@
 [{
   "questionnaire": "hexaco-pi-r-100",
-  "domain": "honesty-humility"
+  "domain": "honesty-humility",
   "title": {
     "en": "Honesty / Humility",
     "es": "Honestidad / Humildad"
@@ -36,7 +36,7 @@
   }],
   "average": 3.19
 }, {
-  "domain": "emotionality"
+  "domain": "emotionality",
   "title": {
     "en": "Emotionality",
     "es": "Emocionalidad"

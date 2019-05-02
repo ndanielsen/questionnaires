@@ -7,7 +7,7 @@
   "reversed": true,
   "number": 1,
   "domain": "openness-to-experience",
-  "facet": "aesthetic-appreciation "
+  "facet": "aesthetic-appreciation"
 }, {
   "title": {
     "es": "Limpio mi oficina o mi casa con bastante frecuencia.",
@@ -19,7 +19,6 @@
   "domain": "conscientiousness",
   "facet": "organization"
 }, {
-  }, {
   "title": {
     "es": "Casi nunca soy rencoroso/a, incluso con personas que me han hecho mucho daño.",
     "en": "I rarely hold a grudge, even against people who have badly wronged me.",
@@ -67,7 +66,7 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
   "number": 7,
-  "domain": "openness-to-experience ",
+  "domain": "openness-to-experience",
   "facet": "inquisitiveness"
 }, {
   ...
