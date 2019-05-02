@@ -36,6 +36,42 @@
   }],
   "average": 3.19
 }, {
+  "domain": "extraversion",
+  "title": {
+    "en": "Extraversion",
+    "es": "Extraversión"
+  },
+  "facets": [{
+    "facet": "social self-Esteem",
+    "title": [{
+      "en": "Social Self-Esteem",
+      "es": ""
+    }],
+    "average": 3.85
+  }, {
+    "facet": "social-boldness",
+    "title": {
+      "en": "Social Boldness",
+      "es": ""
+    },
+    "average": 3.03
+  }, {
+    "facet": "sociability",
+    "title": {
+      "en": "Sociability",
+      "es": "Sociabilidad"
+    },
+    "average": 3.59
+  }, {
+    "facet": "liveliness",
+    "title": {
+      "en": "Liveliness",
+      "es": "Sentimentalismo"
+    },
+    "average": 3.52
+  }],
+  "average": 3.50
+}, {
   "domain": "emotionality",
   "title": {
     "en": "Emotionality",
@@ -72,5 +108,119 @@
   }],
   "average": 3.43
 }, {
-  ...
+  "domain": "agreeableness",
+  "title": {
+    "en": "Agreeableness",
+    "es": "Cordialidad"
+  },
+  "facets": [{
+    "facet": "forgiveness",
+    "title": [{
+      "en": "Forgiveness",
+      "es": "Perdón"
+    }],
+    "average": 2.75
+  }, {
+    "facet": "gentleness",
+    "title": {
+      "en": "Gentleness",
+      "es": "Amabilidad"
+    },
+    "average": 3.17
+  }, {
+    "facet": "flexibility",
+    "title": {
+      "en": "Flexibility",
+      "es": "Flexibilidad"
+    },
+    "average": 2.74
+  }, {
+    "facet": "patience",
+    "title": {
+      "en": "Patience",
+      "es": "Paciencia"
+    },
+    "average": 3.11
+  }],
+  "average": 2.94
+}, {
+  "domain": "conscientiousness",
+  "title": {
+    "en": "Conscientiousness",
+    "es": "Escrupulosidad"
+  },
+  "facets": [{
+    "facet": "organization",
+    "title": [{
+      "en": "Organization",
+      "es": "Organización"
+    }],
+    "average": 3.26
+  }, {
+    "facet": "diligence",
+    "title": {
+      "en": "Diligence",
+      "es": "Diligencia"
+    },
+    "average": 3.79
+  }, {
+    "facet": "perfectionism",
+    "title": {
+      "en": "Perfectionism",
+      "es": "Perfeccionismo"
+    },
+    "average": 3.50
+  }, {
+    "facet": "prudence",
+    "title": {
+      "en": "Prudence",
+      "es": "Prudencia"
+    },
+    "average": 3.18
+  }],
+  "average": 3.44
+}, {
+  "domain": "openness-to-experience",
+  "title": {
+    "en": "Openness to Experience",
+    "es": "Apertura"
+  },
+  "facets": [{
+    "facet": "aesthetic-appreciation",
+    "title": [{
+      "en": "Aesthetic Appreciat",
+      "es": "Apreciación estética"
+    }],
+    "average": 3.34
+  }, {
+    "facet": "inquisitiveness",
+    "title": {
+      "en": "Inquisitiveness",
+      "es": "Curiosidad"
+    },
+    "average": 3.19
+  }, {
+    "facet": "creativity",
+    "title": {
+      "en": "Creativity",
+      "es": "Creatividad"
+    },
+    "average": 3.63
+  }, {
+    "facet": "unconventionality",
+    "title": {
+      "en": "Unconventionality",
+      "es": "No convencionalismo"
+    },
+    "average": 3.46
+  }],
+  "average": 3.41
+}, {
+  "domain": "altruism",
+  "title": {
+    "en": "Altruism",
+    "es": "Altruismo"
+  },
+  "average": 3.90
+}, {
 }]
