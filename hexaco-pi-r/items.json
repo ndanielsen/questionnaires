@@ -176,7 +176,7 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
   "number": 18,
-  "domain": "honesty-humility ",
+  "domain": "honesty-humility",
   "facet": "greed-avoidance"
 }, {
   "title": {
@@ -246,7 +246,7 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": true,
   "number": 25,
-  "domain": "openness-to-experience ",
+  "domain": "openness-to-experience",
   "facet": "aesthetic-appreciation"
 }, {
   "title": {
@@ -306,7 +306,7 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
   "number": 31,
-  "domain": "openness-to-experience ",
+  "domain": "openness-to-experience",
   "facet": "inquisitiveness"
 }, {
   "title": {
@@ -486,8 +486,8 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
   "number": 49,
-  "domain": "openness-to-experience ",
-  "facet": "aesthetic-appreciation "
+  "domain": "openness-to-experience",
+  "facet": "aesthetic-appreciation"
 }, {
   "title": {
     "es": "A menudo la gente me gasta bromas por el desorden de mi habitación o escritorio.",
@@ -536,7 +536,7 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": true,
   "number": 54,
-  "domain": "honesty-humility ",
+  "domain": "honesty-humility",
   "facet": "sincerity"
 }, {
   "title": {
@@ -546,7 +546,7 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": true,
   "number": 55,
-  "domain": "openness-to-experience ",
+  "domain": "openness-to-experience",
   "facet": "inquisitiveness"
 }, {
   "title": {
@@ -606,7 +606,7 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": false,
   "number": 61,
-  "domain": "openness-to-experience ",
+  "domain": "openness-to-experience",
   "facet": "creativity"
 }, {
   "title": {
@@ -656,6 +656,6 @@
   "questionnaire": "hexaco-pi-r-100",
   "reversed": true,
   "number": 66,
-  "domain": "honesty-humility ",
+  "domain": "honesty-humility",
   "facet": "greed-avoidance"
 }]
