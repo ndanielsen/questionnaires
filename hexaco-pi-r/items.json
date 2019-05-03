@@ -220,12 +220,442 @@
   "facet": "liveliness"
 }, {
   "title": {
-    "es": ".",
-    "en": "."
+    "es": "Siento ganas de llorar cuando veo llorar a otras personas.",
+    "en": "I feel like crying when I see other people crying."
   },
   "questionnaire": "hexaco-pi-r-100",
-  "reversed": ,
-  "number": ,
-  "domain": "",
-  "facet": ""
+  "reversed": false,
+  "number": 23,
+  "domain": "emotionality",
+  "facet": "sentimentality"
+}, {
+  "title": {
+    "es": "Soy una persona corriente, no soy mejor que los demás.",
+    "en": "I am an ordinary person who is no better than others."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 24,
+  "domain": "honesty-humility",
+  "facet": "modesty"
+}, {
+  "title": {
+    "es": "No perdería mi tiempo leyendo un libro de poseía.",
+    "en": "I wouldn't spend my time reading a book of poetry."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 25,
+  "domain": "openness-to-experience ",
+  "facet": "aesthetic-appreciation"
+}, {
+  "title": {
+    "es": "Planifico y organizo las cosas con antelación para evitar apuros de última hora.",
+    "en": "I plan ahead and organize things, to avoid scrambling at the last minute."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 26,
+  "domain": "conscientiousness",
+  "facet": "organization"
+}, {
+  "title": {
+    "es": "Mi actitud hacia la gente que me ha tratado mal es la de 'perdonar y olvidar'.",
+    "en": "My attitude toward people who have treated me badly is 'forgive and forget'."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 27,
+  "domain": "agreeableness",
+  "facet": "forgiveness"
+}, {
+  "title": {
+    "es": "Pienso que a la mayoría de la gente le gustan algunos aspectos de mi personalidad.",
+    "en": "I think that most people like some aspects of my personality."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 28,
+  "domain": "extraversion",
+  "facet": "social-self-esteem"
+}, {
+  "title": {
+    "es": "No me importa realizar trabajos que impliquen tareas peligrosas.",
+    "en": "I don’t mind doing jobs that involve dangerous work."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 29,
+  "domain": "emotionality",
+  "facet": "fearfulness"
+}, {
+  "title": {
+    "es": "No usaría halagos para obtener un ascenso o promoción en el trabajo, aunque pensara que con ello podría conseguirlo.",
+    "en": "I wouldn't use flattery to get a raise or promotion at work, even if I thought it would succeed."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 30,
+  "domain": "honesty-humility",
+  "facet": "sincerity"
+  }, {
+  "title": {
+    "es": "Me divierte mirar mapas de diferentes lugares.",
+    "en": "I enjoy looking at maps of different places."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 31,
+  "domain": "openness-to-experience ",
+  "facet": "inquisitiveness"
+}, {
+  "title": {
+    "es": "A menudo me exijo mucho a mi mismo/a cuando pretendo conseguir un objetivo.",
+    "en": "I often push myself very hard when trying to achieve a goal."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 32,
+  "domain": "conscientiousness",
+  "facet": "diligence"
+}, {
+  "title": {
+    "es": "Generalmente acepto los fallos de los demás sin quejarme.",
+    "en": "I generally accept people’s faults without complaining about them."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 33,
+  "domain": "agreeableness",
+  "facet": "gentleness"
+}, {
+  "title": {
+    "es": "En situaciones sociales, normalmente soy el primero en dar el primer paso.",
+    "en": "In social situations, I'm usually the one who makes the first move."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 34,
+  "domain": "extraversion",
+  "facet": "social-boldness"
+}, {
+  "title": {
+    "es": "Me preocupo mucho menos que la mayoría de la gente.",
+    "en": "I worry a lot less than most people do."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 35,
+  "domain": "emotionality",
+  "facet": "anxiety"
+}, {
+  "title": {
+    "es": "Si tuviera problemas económicos, me sentiría tentado a comprar bienes robados.",
+    "en": "I would be tempted to buy stolen property if I were financially tight."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 36,
+  "domain": "honesty-humility",
+  "facet": "fairness"
+}, {
+  "title": {
+    "es": "Me gustaría crear una obra de arte, como una novela, una canción, o una pintura.",
+    "en": "I would enjoy creating a work of art, such as a novel, a song, or a painting."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 37,
+  "domain": "openness-to-experience",
+  "facet": "creativity"
+}, {
+  "title": {
+    "es": "Cuando estoy trabajando en algo, no presto demasiada atención a los pequeños detalles.",
+    "en": "When working on something, I don't pay much attention to small details."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 38,
+  "domain": "conscientiousness",
+  "facet": "perfectionism"
+}, {
+  "title": {
+    "es": "Normalmente soy bastante flexible en mis opiniones cuando la gente está en desacuerdo conmigo.",
+    "en": "I am usually quite flexible in my opinions when people disagree with me."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 39,
+  "domain": "agreeableness",
+  "facet": "flexibility"
+}, {
+  "title": {
+    "es": "Disfruto teniendo mucha gente a mi alrededor con quien poder hablar.",
+    "en": "I enjoy having lots of people around to talk with."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 40,
+  "domain": "extraversion",
+  "facet": "sociability"
+}, {
+  "title": {
+    "es": "Puedo manejar situaciones difíciles sin necesitar apoyo emocional de nadie.",
+    "en": "I can handle difficult situations without needing emotional support from anyone else."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 41,
+  "domain": "emotionality",
+  "facet": "cependence"
+}, {
+  "title": {
+    "es": "Me gustaría vivir en un vecindario muy caro y de clase alta.",
+    "en": "I would like to live in a very expensive, high-class neighborhood."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 42,
+  "domain": "honesty-humility",
+  "facet": "greed-avoidance"
+}, {
+  "title": {
+    "es": "Me gusta la gente que tiene opiniones poco convencionales.",
+    "en": "I like people who have unconventional views."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 43,
+  "domain": "openness-to-experience",
+  "facet": "unconventionality"
+}, {
+  "title": {
+    "es": "Cometo muchos errores porque no pienso antes de actuar.",
+    "en": "I make a lot of mistakes because I don't think before I act."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 44,
+  "domain": "conscientiousness",
+  "facet": "prudence"
+}, {
+  "title": {
+    "es": "Casi nunca me enfado, incluso aunque la gente me trate bastante mal.",
+    "en": "I rarely feel anger, even when people treat me quite badly."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 45,
+  "domain": "agreeableness",
+  "facet": "patience"
+}, {
+  "title": {
+    "es": "La mayoría de los días, me siento feliz y optimista.",
+    "en": "On most days, I feel cheerful and optimistic."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 46,
+  "domain": "extraversion",
+  "facet": "liveliness"
+}, {
+  "title": {
+    "es": "Cuando alguien muy cercano a mí es infeliz, casi puedo sentir el sufrimiento de esa persona.",
+    "en": "When someone I know well is unhappy, I can almost feel that person's pain myself."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 47,
+  "domain": "emotionality",
+  "facet": "sentimentality"
+}, {
+  "title": {
+    "es": "No me gustaría que la gente me tratara como si yo fuera superior a ellos.",
+    "en": "I wouldn’t want people to treat me as though I were superior to them."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 48,
+  "domain": "honesty-humility",
+  "facet": "modesty"
+}, {
+  "title": {
+    "es": "Si pudiera, me gustaría ir a un concierto de música clásica.",
+    "en": "If I had the opportunity, I would like to attend a classical music concert."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 49,
+  "domain": "openness-to-experience ",
+  "facet": "aesthetic-appreciation "
+}, {
+  "title": {
+    "es": "A menudo la gente me gasta bromas por el desorden de mi habitación o escritorio.",
+    "en": "People often joke with me about the messiness of my room or desk."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 50,
+  "domain": "conscientiousness",
+  "facet": "organization"
+}, {
+  "title": {
+    "es": "Si alguien me ha engañado una vez, siempre sospecharé de esa persona.",
+    "en": "If someone has cheated me once, I will always feel suspicious of that person."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 51,
+  "domain": "agreeableness",
+  "facet": "forgiveness"
+}, {
+  "title": {
+    "es": "Me parece que soy una persona impopular.",
+    "en": "I feel that I am an unpopular person."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 52,
+  "domain": "extraversion",
+  "facet": "social-self-esteem"
+}, {
+  "title": {
+    "es": "Cuando hay algún peligro físico, soy muy miedoso/a.",
+    "en": "When it comes to physical danger, I am very fearful."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 53,
+  "domain": "emotionality",
+  "facet": "fearfulness"
+}, {
+  "title": {
+    "es": "Si quiero algo de alguien, me reiré de sus chistes aunque no tengan gracia.",
+    "en": "If I want something from someone, I will laugh at that person's worst jokes."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 54,
+  "domain": "honesty-humility ",
+  "facet": "sincerity"
+}, {
+  "title": {
+    "es": "Me aburriría mucho con un libro de historia de la ciencia y tecnología.",
+    "en": "I would be very bored by a book about the history of science and technology."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 55,
+  "domain": "openness-to-experience ",
+  "facet": "inquisitiveness"
+}, {
+  "title": {
+    "es": "Cuando me propongo una meta, muchas veces abandono sin haberla conseguido.",
+    "en": "Often when I set a goal, I end up quitting without having reached it."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 56,
+  "domain": "conscientiousness",
+  "facet": "diligence"
+}, {
+  "title": {
+    "es": "Tiendo a ser indulgente al juzgar a otras personas.",
+    "en": "I tend to be lenient in judging other people."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 57,
+  "domain": "agreeableness",
+  "facet": "gentleness"
+}, {
+  "title": {
+    "es": "Cuando estoy con un grupo de gente, suelo ser quien habla en nombre del grupo.",
+    "en": "When I'm in a group of people, I'm often the one who speaks on behalf of the group."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 58,
+  "domain": "extraversion",
+  "facet": "social.boldness"
+}, {
+  "title": {
+    "es": "Casi nunca, por no decir nunca, tengo problemas para dormir por estrés o ansiedad.",
+    "en": "I rarely, if ever, have trouble sleeping due to stress or anxiety."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 59,
+  "domain": "emotionality",
+  "facet": "anxiety"
+}, {
+  "title": {
+    "es": "Nunca aceptaría un soborno, aunque fuera muy cuantioso.",
+    "en": "I would never accept a bribe, even if it were very large."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 60,
+  "domain": "honesty-humility",
+  "facet": "fairness"
+}, {
+  "title": {
+    "es": "La gente suele decirme que tengo mucha imaginación.",
+    "en": "People have often told me that I have a good imagination."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 61,
+  "domain": "openness-to-experience ",
+  "facet": "creativity"
+}, {
+  "title": {
+    "es": "Siempre intento no cometer errores en mi trabajo, aunque me cueste tiempo.",
+    "en": "I always try to be accurate in my work, even at the expense of time."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 62,
+  "domain": "conscientiousness",
+  "facet": "perfectionism"
+}, {
+  "title": {
+    "es": "Cuando la gente me dice que estoy equivocado/a, mi primera reacción es discutir con ellos.",
+    "en": "When people tell me that I’m wrong, my first reaction is to argue with them."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 63,
+  "domain": "agreeableness",
+  "facet": "flexibility"
+}, {
+  "title": {
+    "es": "Prefiero trabajos que implican interactuar activamente con otras personas a otros que implican trabajar solo.",
+    "en": "I prefer jobs that involve active social interaction to those that involve working alone."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 64,
+  "domain": "extraversion",
+  "facet": "sociability"
+}, {
+  "title": {
+    "es": "Cada vez que me siento preocupado por algo, quiero compartir mi preocupación con otra persona.",
+    "en": "Whenever I feel worried about something, I want to share my concern with another person."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": false,
+  "number": 65,
+  "domain": "emotionality",
+  "facet": "dependence"
+}, {
+  "title": {
+    "es": "Me gustaría que me vieran conduciendo un coche muy caro.",
+    "en": "I would like to be seen driving around in a very expensive car."
+  },
+  "questionnaire": "hexaco-pi-r-100",
+  "reversed": true,
+  "number": 66,
+  "domain": "honesty-humility ",
+  "facet": "greed-avoidance"
 }]
